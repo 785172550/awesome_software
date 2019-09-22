@@ -35,9 +35,9 @@ win + G 录屏
 6. Xshell: ssh客户端，永久激活版
 7. windirstat: 磁盘整理工具，分析文件分布，找到大文件
 8. driver booster: 驱动安装，没有其他多余功能
-9. 迅雷极速版: 无广告下载 也可用 aria2
+9. 迅雷极速版: 无广告下载,也可用 --> aria2
 10. ssr: 科学
-11. advanced systemcare 12 pro: [破解版](./advanced_systemcare)  
+11. advanced systemcare 12 pro: [破解版](./advanced_systemcare) 系统清理保护
 12. uupoop: 在线PS https://www.uupoop.com/
 13. MPC-HC: 超轻量视频播放器 https://mpc-hc.org/downloads/
 14. window termimal: window 终端 
@@ -48,13 +48,13 @@ win + G 录屏
 15. scoop: window package manager 包管理器 
     ```
     https://scoop.sh/
-    insatll scoop:
-    iwr -useb get.scoop.sh | iex
+    安装 install scoop: iwr -useb get.scoop.sh | iex
 
     scoop 使用:
     (https://github.com/lukesampson/scoop/blob/master/buckets.json)
     查看可添加仓库: scoop bucket known
     查看已添加仓库: scoop buckek list
+
     添加仓库:
     scoop bucket add extras
     scoop bucket add java
