@@ -1,0 +1,20 @@
+{
+"configs" : [
+  {
+"server" : "66.112.22.6",
+"server_port" : 10002,
+"password" : "name2",
+"method" : "rc4-md5",
+"remarks" : ""}
+
+],
+"strategy" : null,
+"index" : 0,
+"global" : true,
+"enabled" : true,
+"shareOverLan" : false,
+"isDefault" : false,
+"localPort" : 1080,
+"pacUrl" : null,
+"useOnlinePac" : false,
+"availabilityStatistics" : false}
